@@ -1,0 +1,37 @@
+## Step1 
+
+## Shell scripting
+
+`mkdir Shell`
+![mkdir shell](./images/mkdir-shell.png)
+
+`cd Shell`
+![cd shell](./images/cd-shell.png)
+
+`touch names.csv and keys`
+![touch id_rsa id_rsa.pub names.csv](./images/names.png)
+
+`touch & view names`
+![cat names](./images/name.png)
+
+`group add developers`
+![sudo groupadd developers](./images/groupadd.png)
+
+`created user view`
+![view users](./images/created_users.png)
+
+`login to created user`
+
+![ssh -i aux-proj.pem afis@18.217.176.109](./images/user_login.png)
+
+`view ls creater user`
+
+![ ls -la](./images/ls-newuser.png)
+
+`second created user login`
+
+![ssh -i aux-proj.pem sultan@18.217.176.109](./images/second_user.png)
+
+
+
+
